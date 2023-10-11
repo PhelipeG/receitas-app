@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-food-hospitality-services-flaticons-flat-flat -icons.png" alt="app-logo" />
+  <img width="512" height="512"  src="https://img.icons8.com/external-flaticons-flat-flat-icons/512/external-food-street-food-flaticons-flat-flat-icons-3.png" alt="app-logo" />
 
   &#xa0;
 
@@ -39,22 +39,23 @@ Aplicativo em React Native de receitas os dados sao retornados de uma api mockup
 ## :sparkles: Features ##
 
 :heavy_check_mark: Cadastrar suas receitas 
+:heavy_check_mark: Visualizar Receitas 
 
 
 <h2> Tela de Apresentacao </h2>
 <p align="center"> 
- <img src="" widht='340px' height='540px'    alt="app-iphone15"/>
+ <img src="https://github.com/GuilhaoF/food-app/assets/67026555/556bfde3-92c7-47f8-8738-316af69a7249" widht='340px' height='540px'    alt="app-iphone15"/>
 </p>
 
 <h2> Dashboard - Home</h2>
 <p align="center"> 
- <img src="" widht='340px' height='540px'    alt="app-iphone15"/>
+ <img src="https://github.com/GuilhaoF/food-app/assets/67026555/6a1b849f-c4c7-4eda-9c44-a9a5e14ea959" widht='340px' height='540px'    alt="app-iphone15"/>
 </p>
 
 
 <h2> Informacoes da Receita </h2>
 <p align="center"> 
- <img src="" widht='340px' height='540px'    alt="app-iphone15"/>
+ <img src="https://github.com/GuilhaoF/food-app/assets/67026555/527212fe-b490-4b45-955a-b11900a4668b" widht='340px' height='540px'    alt="app-iphone15"/>
 </p>
 
 
